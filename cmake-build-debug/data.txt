@@ -5,25 +5,230 @@ Your balance: 10000
 Ai's balance: 10000
 Player's hand:   
 ┌─────────┐┌─────────┐
-│2♥       ││7♥       │
+│A♣       ││6♦       │
+│         ││         │
+│         ││         │
+│    ♣    ││    ♦    │
+│         ││         │
+│         ││         │
+│      A♣ ││      6♦ │
+└─────────┘└─────────┘
+
+Ai's hand  
+┌─────────┐┌─────────┐
+│K♣       ││4♥       │
+│         ││         │
+│         ││         │
+│    ♣    ││    ♥    │
+│         ││         │
+│         ││         │
+│      K♣ ││      4♥ │
+└─────────┘└─────────┘
+
+||                     PRE-FLOP                  ||
+Your bets for pre-flop round
+Player raised 123$
+The last bet is 123$
+Ai folded
+You won this round, next game will start soon
+
+Your balance at the end 10000$
+Ai's balance at the end 10000$
+||                     WELCOME TO POKER                  ||
+
+Your balance: 10000
+
+Ai's balance: 10000
+Player's hand:   
+┌─────────┐┌─────────┐
+│A♣       ││3♠       │
+│         ││         │
+│         ││         │
+│    ♣    ││    ♠    │
+│         ││         │
+│         ││         │
+│      A♣ ││      3♠ │
+└─────────┘└─────────┘
+
+Ai's hand  
+┌─────────┐┌─────────┐
+│8♦       ││Q♠       │
+│         ││         │
+│         ││         │
+│    ♦    ││    ♠    │
+│         ││         │
+│         ││         │
+│      8♦ ││      Q♠ │
+└─────────┘└─────────┘
+
+||                     PRE-FLOP                  ||
+Your bets for pre-flop round
+Player raised 123$
+The last bet is 123$
+Ai folded
+You won this round, next game will start soon
+
+Your balance at the end 10000$
+Ai's balance at the end 10000$
+||                     WELCOME TO POKER                  ||
+
+Your balance: 10000
+
+Ai's balance: 10000
+Player's hand:   
+┌─────────┐┌─────────┐
+│Q♠       ││K♠       │
+│         ││         │
+│         ││         │
+│    ♠    ││    ♠    │
+│         ││         │
+│         ││         │
+│      Q♠ ││      K♠ │
+└─────────┘└─────────┘
+
+Ai's hand  
+┌─────────┐┌─────────┐
+│6♥       ││Q♥       │
 │         ││         │
 │         ││         │
 │    ♥    ││    ♥    │
 │         ││         │
 │         ││         │
-│      2♥ ││      7♥ │
-└─────────┘└─────────┘
-
-Ai's hand  
-┌─────────┐┌─────────┐
-│3♠       ││2♣       │
-│         ││         │
-│         ││         │
-│    ♠    ││    ♣    │
-│         ││         │
-│         ││         │
-│      3♠ ││      2♣ │
+│      6♥ ││      Q♥ │
 └─────────┘└─────────┘
 
 ||                     PRE-FLOP                  ||
 Your bets for pre-flop round
+Player raised 123$
+The last bet is 123$
+Ai folded
+You won this round, next game will start soon
+
+Your balance at the end 10000$
+Ai's balance at the end 10000$
+||                     WELCOME TO POKER                  ||
+
+Your balance: 10000
+
+Ai's balance: 10000
+Player's hand:   
+┌─────────┐┌─────────┐
+│6♣       ││J♦       │
+│         ││         │
+│         ││         │
+│    ♣    ││    ♦    │
+│         ││         │
+│         ││         │
+│      6♣ ││      J♦ │
+└─────────┘└─────────┘
+
+Ai's hand  
+┌─────────┐┌─────────┐
+│K♦       ││7♣       │
+│         ││         │
+│         ││         │
+│    ♦    ││    ♣    │
+│         ││         │
+│         ││         │
+│      K♦ ││      7♣ │
+└─────────┘└─────────┘
+
+||                     PRE-FLOP                  ||
+Your bets for pre-flop round
+Player raised 234$
+The last bet is 234$
+Ai folded
+You won this round, next game will start soon
+
+Your balance at the end 10000$
+Ai's balance at the end 10000$
+||                     WELCOME TO POKER                  ||
+
+Your balance: 10000
+
+Ai's balance: 10000
+Player's hand:   
+┌─────────┐┌─────────┐
+│4♦       ││4♣       │
+│         ││         │
+│         ││         │
+│    ♦    ││    ♣    │
+│         ││         │
+│         ││         │
+│      4♦ ││      4♣ │
+└─────────┘└─────────┘
+
+Ai's hand  
+┌─────────┐┌─────────┐
+│7♣       ││K♦       │
+│         ││         │
+│         ││         │
+│    ♣    ││    ♦    │
+│         ││         │
+│         ││         │
+│      7♣ ││      K♦ │
+└─────────┘└─────────┘
+
+||                     PRE-FLOP                  ||
+Your bets for pre-flop round
+Player raised 123$
+The last bet is 123$
+Ai called
+The pot is 246$
+||                     FLOP                  ||
+Cards on table:
+┌─────────┐┌─────────┐┌─────────┐
+│3♥       ││8♥       ││4♥       │
+│         ││         ││         │
+│         ││         ││         │
+│    ♥    ││    ♥    ││    ♥    │
+│         ││         ││         │
+│         ││         ││         │
+│      3♥ ││      8♥ ││      4♥ │
+└─────────┘└─────────┘└─────────┘
+
+Your bets for flop round
+Player raised 123$
+The last bet is 123$
+Ai called
+The pot is 492$
+||                     Turn                  ||
+Cards on table:
+┌─────────┐┌─────────┐┌─────────┐┌─────────┐
+│3♥       ││8♥       ││4♥       ││A♥       │
+│         ││         ││         ││         │
+│         ││         ││         ││         │
+│    ♥    ││    ♥    ││    ♥    ││    ♥    │
+│         ││         ││         ││         │
+│         ││         ││         ││         │
+│      3♥ ││      8♥ ││      4♥ ││      A♥ │
+└─────────┘└─────────┘└─────────┘└─────────┘
+
+Your bets for Turn round
+Player raised 123$
+The last bet is 123$
+Ai raised 790$
+The pot is 1528$
+the last bet is 913$
+You called
+The pot is 1528
+||                     River                  ||
+Cards on table:
+┌─────────┐┌─────────┐┌─────────┐┌─────────┐┌─────────┐
+│3♥       ││8♥       ││4♥       ││A♥       ││9♦       │
+│         ││         ││         ││         ││         │
+│         ││         ││         ││         ││         │
+│    ♥    ││    ♥    ││    ♥    ││    ♥    ││    ♦    │
+│         ││         ││         ││         ││         │
+│         ││         ││         ││         ││         │
+│      3♥ ││      8♥ ││      4♥ ││      A♥ ││      9♦ │
+└─────────┘└─────────┘└─────────┘└─────────┘└─────────┘
+
+Your bets for river round
+Player raised 123$
+The last bet is 123$
+Ai folded
+You won this round, next game will start soon
+
+Your balance at the end 11159$
+Ai's balance at the end 8964$

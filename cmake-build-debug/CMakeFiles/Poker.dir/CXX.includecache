@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/Users/belekayazbekov/CLionProjects/Poker/Cards.cpp
-Cards.h
-/Users/belekayazbekov/CLionProjects/Poker/Cards.h
-
 /Users/belekayazbekov/CLionProjects/Poker/Cards.h
 iostream
 -
@@ -26,23 +22,11 @@ iostream
 Poker_Game.h
 /Users/belekayazbekov/CLionProjects/Poker/Poker_Game.h
 
-/Users/belekayazbekov/CLionProjects/Poker/Player.cpp
-Player.h
-/Users/belekayazbekov/CLionProjects/Poker/Player.h
-
 /Users/belekayazbekov/CLionProjects/Poker/Player.h
 Cards.h
 /Users/belekayazbekov/CLionProjects/Poker/Cards.h
 list
 /Users/belekayazbekov/CLionProjects/Poker/list
-
-/Users/belekayazbekov/CLionProjects/Poker/Poker_Game.cpp
-Poker_Game.h
-/Users/belekayazbekov/CLionProjects/Poker/Poker_Game.h
-random
--
-fstream
-/Users/belekayazbekov/CLionProjects/Poker/fstream
 
 /Users/belekayazbekov/CLionProjects/Poker/Poker_Game.h
 Player.h
