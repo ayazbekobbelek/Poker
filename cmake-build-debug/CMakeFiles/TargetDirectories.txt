@@ -1,0 +1,3 @@
+/Users/belekayazbekov/CLionProjects/Poker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/belekayazbekov/CLionProjects/Poker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/belekayazbekov/CLionProjects/Poker/cmake-build-debug/CMakeFiles/Poker.dir

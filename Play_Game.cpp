@@ -7,7 +7,5 @@ int main() {
     game = new PokerGame;
     game->StartGame();
     delete[] game;
-
-
     return 0;
 }
